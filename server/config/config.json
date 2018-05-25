@@ -1,0 +1,19 @@
+{
+    "development": {
+      "username": "sa",
+      "password": "root",
+      "database": "UNVIEWER",
+      "host": "localhost",
+      "port": 1433,
+      "dialect": "mssql"
+    },
+    "test": {
+      "username": "waiyaki",
+      "password": null,
+      "database": "todos-test",
+      "host": "127.0.0.1",
+      "port": 5432,
+      "dialect": "postgres"
+    }
+  }
+  
